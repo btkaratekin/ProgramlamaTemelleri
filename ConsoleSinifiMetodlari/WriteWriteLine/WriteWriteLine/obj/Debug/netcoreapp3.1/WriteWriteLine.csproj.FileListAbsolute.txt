@@ -1,0 +1,13 @@
+C:\Users\İsmail KARAMAN\Source\Repos\btkaratekin\ProgramlamaTemelleri\ConsoleSinifiMetodlari\WriteWriteLine\WriteWriteLine\bin\Debug\netcoreapp3.1\WriteWriteLine.exe
+C:\Users\İsmail KARAMAN\Source\Repos\btkaratekin\ProgramlamaTemelleri\ConsoleSinifiMetodlari\WriteWriteLine\WriteWriteLine\bin\Debug\netcoreapp3.1\WriteWriteLine.deps.json
+C:\Users\İsmail KARAMAN\Source\Repos\btkaratekin\ProgramlamaTemelleri\ConsoleSinifiMetodlari\WriteWriteLine\WriteWriteLine\bin\Debug\netcoreapp3.1\WriteWriteLine.runtimeconfig.json
+C:\Users\İsmail KARAMAN\Source\Repos\btkaratekin\ProgramlamaTemelleri\ConsoleSinifiMetodlari\WriteWriteLine\WriteWriteLine\bin\Debug\netcoreapp3.1\WriteWriteLine.runtimeconfig.dev.json
+C:\Users\İsmail KARAMAN\Source\Repos\btkaratekin\ProgramlamaTemelleri\ConsoleSinifiMetodlari\WriteWriteLine\WriteWriteLine\bin\Debug\netcoreapp3.1\WriteWriteLine.dll
+C:\Users\İsmail KARAMAN\Source\Repos\btkaratekin\ProgramlamaTemelleri\ConsoleSinifiMetodlari\WriteWriteLine\WriteWriteLine\bin\Debug\netcoreapp3.1\WriteWriteLine.pdb
+C:\Users\İsmail KARAMAN\Source\Repos\btkaratekin\ProgramlamaTemelleri\ConsoleSinifiMetodlari\WriteWriteLine\WriteWriteLine\obj\Debug\netcoreapp3.1\WriteWriteLine.csprojAssemblyReference.cache
+C:\Users\İsmail KARAMAN\Source\Repos\btkaratekin\ProgramlamaTemelleri\ConsoleSinifiMetodlari\WriteWriteLine\WriteWriteLine\obj\Debug\netcoreapp3.1\WriteWriteLine.AssemblyInfoInputs.cache
+C:\Users\İsmail KARAMAN\Source\Repos\btkaratekin\ProgramlamaTemelleri\ConsoleSinifiMetodlari\WriteWriteLine\WriteWriteLine\obj\Debug\netcoreapp3.1\WriteWriteLine.AssemblyInfo.cs
+C:\Users\İsmail KARAMAN\Source\Repos\btkaratekin\ProgramlamaTemelleri\ConsoleSinifiMetodlari\WriteWriteLine\WriteWriteLine\obj\Debug\netcoreapp3.1\WriteWriteLine.csproj.CoreCompileInputs.cache
+C:\Users\İsmail KARAMAN\Source\Repos\btkaratekin\ProgramlamaTemelleri\ConsoleSinifiMetodlari\WriteWriteLine\WriteWriteLine\obj\Debug\netcoreapp3.1\WriteWriteLine.dll
+C:\Users\İsmail KARAMAN\Source\Repos\btkaratekin\ProgramlamaTemelleri\ConsoleSinifiMetodlari\WriteWriteLine\WriteWriteLine\obj\Debug\netcoreapp3.1\WriteWriteLine.pdb
+C:\Users\İsmail KARAMAN\Source\Repos\btkaratekin\ProgramlamaTemelleri\ConsoleSinifiMetodlari\WriteWriteLine\WriteWriteLine\obj\Debug\netcoreapp3.1\WriteWriteLine.genruntimeconfig.cache
